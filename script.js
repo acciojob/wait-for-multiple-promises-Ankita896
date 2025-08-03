@@ -1,4 +1,3 @@
-//your JS code here. If required.
 function getRandomTime() {
     return Math.random() * 2000 + 1000; // Random time between 1 and 3 seconds
 }
